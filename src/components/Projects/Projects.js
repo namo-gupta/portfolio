@@ -25,9 +25,9 @@ function Projects() {
             <ProjectCard
               // imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              title="Task Manager"
+              description="Task Manager is a React-based application for managing tasks with priorities and completion status. This application allows users to add, edit, delete, filter, and sort tasks based on their priority and completion status."
+              ghLink="https://github.com/namo-gupta/task-manager"
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
